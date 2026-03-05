@@ -1,3 +1,13 @@
 # exercise4 - 04.03.26
 
-This is the README. Hello!
+## project title
+
+this is a short description of the project
+
+## installation instructions
+
+this are the installation instructions
+
+## usage examples
+
+these are usage examples
